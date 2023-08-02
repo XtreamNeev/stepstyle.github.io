@@ -1,0 +1,86 @@
+.top-bar {
+    background-color: #0463A3;
+    overflow: hidden;
+    text-align: center;
+    font-size: 72px;
+    padding: 8px;
+    font-family: "Calibri";
+    margin: none;
+    border: none;
+    color: white;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+.button{
+    background-color: #0463A3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 10%;
+}
+.image{
+    border-radius: 8px;
+    width: 80px;
+    height: 80px;
+    margin-left: 5%;
+}
+.avatar{
+    border-radius: 8px;
+    width: 80px;
+    height: 80px;
+    margin-left: 5%;
+}
+.carpet{
+    width: 25%;
+    height: 256px;
+    margin: 5%;
+}
+.items{
+    display: list-items;
+    color: white;
+    font-size: 32px;
+    margin-bottom: 32px;
+}
+.item{
+    display: flex;
+    padding-top: 3%;
+}
+.info{
+    margin-top: 128px;
+}
+.carpetbutton{
+    display: flex;
+    height: 256px;
+    width: 25%;
+    margin: 5%;
+    margin-left: 15%
+}
+.heading{
+font-size: 32px;
+color: white;
+text-align: center;
+}
+.addimg{
+width: 128px;
+height: 128px;
+float: right;
+margin: 10px;
+}
+.colors{
+margin-top: 70px;
+margin: 32px;
+height: 64px;
+width: 64px;
+}
+.imgtext{
+color: white;
+margin-left: 55px;
+}
